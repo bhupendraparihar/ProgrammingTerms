@@ -29,4 +29,7 @@ List and description of programming terms
 
 	<dt>MIME type</dt>
 	<dd>A STATNDARD FOR SPECIFYING THE TYPE OF DATA BEING SENT. Stands for 'Multipurpose Internet Mail Extensions'. Examples: application/json, text/html, image/jpeg</dd>
+
+	<dt>Monkey Patching</dt>
+	<dd>A monkey patch is a way for a program to extend or modify supporting system software locally (affecting only the running instance of the program). Ex. <a href="http://me.dt.in.th/page/JavaScript-override/">http://me.dt.in.th/page/JavaScript-override/<a></dd>
 </dl>
