@@ -32,4 +32,13 @@ List and description of programming terms
 
 	<dt>Monkey Patching</dt>
 	<dd>A monkey patch is a way for a program to extend or modify supporting system software locally (affecting only the running instance of the program). Ex. <a href="http://me.dt.in.th/page/JavaScript-override/">http://me.dt.in.th/page/JavaScript-override/<a></dd>
+	
+	<dt>Open Close Principle</dt>
+	<dd>Open Close Principle is one of the Robust Software Design principle. It says "Your system is open for extensions but close to breaking changes". It relies on Interface Contract.</dd>
+	
+	<dt>Classical Inheritance</dt>
+	<dd>Is like buying a un-assembled furniture. If any peice go wrong, you are not going to get the furniture</dd>
+	
+	<dt>Composition</dt>
+	<dd>Is like buying a LEGO box, you can create variety of furnitures</dd>
 </dl>
