@@ -41,4 +41,7 @@ List and description of programming terms
 	
 	<dt>Composition</dt>
 	<dd>Is like buying a LEGO box, you can create variety of furnitures</dd>
+	
+	<dt>Functor</dt>
+	<dd>A functor is a function, given a value and a function, unwraps the values to get to its inner value(s), call the given function with the inner value(s), wraps the returned values in a new structure, and returns the new structure. Ex. Array.map is a function, Array.filter is a functor. Mathematically a  function F is a functor, when for two composable ordinary function f and g,   F (f  . g) = F(f). F(g)</dd> 
 </dl>
