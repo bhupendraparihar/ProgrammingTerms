@@ -48,4 +48,12 @@ List and description of programming terms
 	<h3>Software Quality External Factors</h3>
 	<dt>Correctness</dt>
 	<dd>Correctness is the ability of software products to perform their exact tasks, as defined by their specification.</dd>
+	
+	<dt>Robustness</dt>
+	<dd>Robustness is the ability of software systems to react appropriately to abnormal conditions.*There will always be cases that the specification does not explicitly address. The role of robustness requirement is to make sure that if such cases do arise, the system does not cause catastrophic events; it should produce appropriate error messages, terminate its execution cleanly, or enter a so-called "graceful degradation" mode.*</dd>
+	
+	<dt>Extendibility<dt>
+	<dd>Extendibility is the ease of adapting software products to changes of specification. *Two principles for imporving extendibility. 1. Design simplicity : a simple architecture will always be easier to adapt to changes than a complex one. 2. Decentralization: the more autonomous the modules, the higher the likelihood that a simple change will affect just one module, or a small number of modules, rather than triggering off a chain reaction of changes over the whole system.* </dd>
+	
+	<dt>Reusability</
 </dl>
