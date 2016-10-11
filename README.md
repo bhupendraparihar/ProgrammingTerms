@@ -50,10 +50,32 @@ List and description of programming terms
 	<dd>Correctness is the ability of software products to perform their exact tasks, as defined by their specification.</dd>
 	
 	<dt>Robustness</dt>
-	<dd>Robustness is the ability of software systems to react appropriately to abnormal conditions.*There will always be cases that the specification does not explicitly address. The role of robustness requirement is to make sure that if such cases do arise, the system does not cause catastrophic events; it should produce appropriate error messages, terminate its execution cleanly, or enter a so-called "graceful degradation" mode.*</dd>
+	<dd>Robustness is the ability of software systems to react appropriately to abnormal conditions.<em>There will always be cases that the specification does not explicitly address. The role of robustness requirement is to make sure that if such cases do arise, the system does not cause catastrophic events; it should produce appropriate error messages, terminate its execution cleanly, or enter a so-called "graceful degradation" mode.</em></dd>
 	
 	<dt>Extendibility<dt>
-	<dd>Extendibility is the ease of adapting software products to changes of specification. *Two principles for imporving extendibility. 1. Design simplicity : a simple architecture will always be easier to adapt to changes than a complex one. 2. Decentralization: the more autonomous the modules, the higher the likelihood that a simple change will affect just one module, or a small number of modules, rather than triggering off a chain reaction of changes over the whole system.* </dd>
+	<dd>Extendibility is the ease of adapting software products to changes of specification. <em>Two principles for imporving extendibility. 1. Design simplicity : a simple architecture will always be easier to adapt to changes than a complex one. 2. Decentralization: the more autonomous the modules, the higher the likelihood that a simple change will affect just one module, or a small number of modules, rather than triggering off a chain reaction of changes over the whole system.</em> </dd>
 	
-	<dt>Reusability</
+	<dt>Reusability</dt>
+	<dd>Reusability is the ability of software elements to serve for the construction of many different applications.</dd>
+	
+	<dt>Compatibility<dt>
+	<dd>Compatibility is the ease of combining software elements with others.</dd>
+	
+	<dt>Efficiency</dt>
+	<dd>Efficiency is the ability of a software system to place as few demands as possible on hardware resouces, such as processor time, space occupied in internal and external memories, bandwidth used in communication devices.</dd>
+	
+	<dt>Portability</dt>
+	<dd>Portability is the ease of transferring software products to various hardware and software environments.</dd>
+	
+	<dt>Ease of use</dt>
+	<dd>Ease of use is the ease with which people of various backgrounds and qualifications can learn to use software products and apply them to solve problems. It also covers the ease of installation, operation and monitoring.</dd>
+	
+	<dt>User Interface Design principle</dt>
+	<dd>Do not pretend you know the user; you don't</dd>
+	
+	<dt>Functionality</dt>
+	<dd>Functionality is the extend of possibilities provided by a system.</dd>
+	
+	<dt>Timeliness</dt>
+	<dd>Timeliness is the abilitity of a software system to be released when or before its users want it.</dd>
 </dl>
