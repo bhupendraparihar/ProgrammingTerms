@@ -2,6 +2,9 @@
 List and description of programming terms
 
 <dl>
+        <dt>Atwood's Law</dt>
+	<dd>any application that can be written in JavaScript, will eventually be written in JavaScript.</dd>
+	
 	<dt>Error-First Callback</dt>
 	<dd>callbacks takes an error object as their first parameter.
 	 null if no error, otherwise will contain an object defining the error. This is a standard so we know in what order to place our parameters for our callbacks.</dd>
